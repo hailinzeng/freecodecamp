@@ -1,0 +1,34 @@
+.quote-box {
+    background: white;
+    margin: 8% auto 8% auto;
+    padding-top: 60px;
+    /* padding-left: 90px; */
+    width: 450px;
+}
+
+.quote-text {
+    text-align: center;
+    padding-bottom: 10px;
+    /*font-size: large;*/
+    font-weight: 500;
+    font-size: 1.75em;
+}
+
+.quote-author {
+    align-items: center;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    font-size: 1em;
+}
+
+.quote-button {
+    padding-top: 30px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+    margin-right: 10px;
+}
+
+.footer {
+    margin: 0% 20% 0% 20%;
+    text-align: center;
+}
